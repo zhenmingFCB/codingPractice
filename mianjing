@@ -1,0 +1,22 @@
+1 leetcode:
+	jump game 1&2
+	game of life
+	unique path
+	3 sum
+calculator
+evaluation
+
+
+2. helicopter path (dijkstra)
+	heapq, extract min cumulative sum each time, try four directions.
+3. bloomfilter
+	follow up1: resize: reconstruct/muliple bloomfilter
+	follow up2: remove: use counter in stead of bitarray
+4. rador path
+	union find for each rador. 2d plane is unbounded.
+
+5 无向无权图 + each edge store once + serialize/deserialize
+	methods: hasEdge, addEdge, numEdge
+
+6 meeting rooms
+
